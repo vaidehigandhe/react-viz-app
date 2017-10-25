@@ -1,0 +1,9 @@
+{
+  "generator-react-webpack": {
+    "appName": "bayer-app",
+    "style": "css",
+    "cssmodules": true,
+    "postcss": false,
+    "generatedWithVersion": 4
+  }
+}
